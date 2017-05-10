@@ -9,6 +9,7 @@ Definition of end point to be set in the load balancer being public in internet 
 * http://mydomain.com/jenkins
 
 ### private
+* SSH  --> 192.168.1.240:2222
 * API --> http://192.168.1.240:8081
 * Database --> http://192.168.1.240:3306
 
